@@ -1,7 +1,7 @@
-fastapi
-uvicorn
-pandas
-faiss-cpu
+langchain==1.2.3
+langchain-community
+langchain-huggingface
 sentence-transformers
+faiss-cpu
 transformers
 torch
